@@ -20,7 +20,7 @@ sys.setrecursionlimit(1500)
 # -- Project information -----------------------------------------------------
 
 project = 'Python Package'
-copyright = '2022, Jan Baumgärtner
+copyright = '2022, Jan Baumgärtner'
 author = 'Jan Baumgärtner'
 
 # The full version, including alpha/beta/rc tags
